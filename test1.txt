@@ -3,4 +3,6 @@ git 1 is free softwer
 git has a mutable index called stage
 
 
-add new line 
+add new line
+
+some thing not good
