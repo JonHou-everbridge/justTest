@@ -1,2 +1,2 @@
-my first file add this
-git is free softwer
+git 1 is my first file add this
+git 1 is free softwer
